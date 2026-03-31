@@ -1,0 +1,56 @@
+{
+  "profiles": {
+    "max_records_per_batch": "10"
+  },
+  "portfolios": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_product_campaigns": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_product_ad_groups": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_product_keywords": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_product_ads": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_product_targetings": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_brands_campaigns": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_brands_ad_groups": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_brands_keywords": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_brands_ads": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_display_campaigns": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_display_ad_groups": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_display_product_ads": {
+    "max_records_per_batch": "10"
+  },
+  "sponsored_display_targetings": {
+    "max_records_per_batch": "10"
+  },
+  "stores": {
+    "max_records_per_batch": "10"
+  },
+  "store_assets": {
+    "max_records_per_batch": "10"
+  },
+  "brand_safety_profiles": {
+    "max_records_per_batch": "10"
+  }
+}

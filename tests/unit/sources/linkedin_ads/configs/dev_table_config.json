@@ -1,0 +1,30 @@
+{
+  "ad_accounts": {
+    "page_size": "5"
+  },
+  "campaign_groups": {
+    "page_size": "5"
+  },
+  "campaigns": {
+    "page_size": "5"
+  },
+  "creatives": {
+    "page_size": "5"
+  },
+  "ad_analytics_account_daily": {
+    "window_days": "1",
+    "lookback_days": "1"
+  },
+  "ad_analytics_campaign_group_daily": {
+    "window_days": "1",
+    "lookback_days": "1"
+  },
+  "ad_analytics_campaign_daily": {
+    "window_days": "1",
+    "lookback_days": "1"
+  },
+  "ad_analytics_creative_daily": {
+    "window_days": "1",
+    "lookback_days": "1"
+  }
+}
