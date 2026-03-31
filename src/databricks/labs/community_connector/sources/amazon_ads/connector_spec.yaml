@@ -1,0 +1,30 @@
+# amazon_ads Community Connector Spec
+# This file defines connection/auth parameters only.
+
+connection:
+  parameters:
+    - name: client_id
+      type: string
+      required: true
+      description: >
+        Amazon Ads OAuth application client ID used to request access tokens.
+
+    - name: client_secret
+      type: string
+      required: true
+      description: >
+        Amazon Ads OAuth application client secret paired with the client ID.
+
+    - name: refresh_token
+      type: string
+      required: true
+      description: >
+        Long-lived OAuth refresh token used to mint short-lived access tokens.
+
+    - name: region
+      type: string
+      required: false
+      description: >
+        Amazon Ads API region for requests. Typical values are NA, EU, or FE.
+
+external_options_allowlist: ""
